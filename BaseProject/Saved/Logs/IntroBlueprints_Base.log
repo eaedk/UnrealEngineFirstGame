@@ -1048,3 +1048,8 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.04.17-15.59.56:514][595]LogSavePackage: Moving '../../../../../../Users/emman/Documents/Unreal Projects/UnrealEngineFirstGame/BaseProject/Saved/MainMapA9E31CAB44EDC73A9C6CD0A786EC0D15.tmp' to '../../../../../../Users/emman/Documents/Unreal Projects/UnrealEngineFirstGame/BaseProject/Content/FunkyShooter/BaseGame/Maps/MainMap.umap'
 [2022.04.17-15.59.56:556][595]AssetCheck: New page: Asset Save: MainMap
 [2022.04.17-15.59.56:556][595]LogContentValidation: Display: Validating World /Game/FunkyShooter/BaseGame/Maps/MainMap.MainMap
+[2022.04.17-16.07.55:501][215]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.04.17-16.08.14:658][290]LogSavePackage: Moving output files for package: /Game/FunkyShooter/Blueprints/BP_Player
+[2022.04.17-16.08.14:658][290]LogSavePackage: Moving '../../../../../../Users/emman/Documents/Unreal Projects/UnrealEngineFirstGame/BaseProject/Saved/BP_PlayerEDB3D1FB4A4DC640CDF8B391961F9681.tmp' to '../../../../../../Users/emman/Documents/Unreal Projects/UnrealEngineFirstGame/BaseProject/Content/FunkyShooter/Blueprints/BP_Player.uasset'
+[2022.04.17-16.08.14:682][290]AssetCheck: New page: Asset Save: BP_Player
+[2022.04.17-16.08.14:682][290]LogContentValidation: Display: Validating Blueprint /Game/FunkyShooter/Blueprints/BP_Player.BP_Player
