@@ -749,3 +749,206 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.04.17-20.14.27:555][114]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FunkyShooter/Blueprints/BP_Player.BP_Player
 [2022.04.17-20.14.27:555][114]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2022.04.17-20.14.28:718][114]LogSlate: Took 0.000287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.04.17-20.15.56:995][400]LogDerivedDataCache: C:/Users/emman/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.058 and deleted 0 file(s) with total size 0 MiB.
+[2022.04.17-20.16.19:040][694]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.04.17-20.16.19:048][694]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.17-20.16.31:477][425]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.17-20.16.31:477][425]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.17-20.24.11:518][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.04.17-20.24.11:527][884]LogPackageLocalizationCache: Processed 31 localized package path(s) for 1 prioritized culture(s) in 0.007259 seconds
+[2022.04.17-20.24.11:541][884]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FunkyShooter/BaseGame/Maps/MainMap_Auto1
+[2022.04.17-20.24.11:542][884]LogSavePackage: Moving '../../../../../../Users/emman/Documents/Unreal Projects/UnrealEngineFirstGame/BaseProject/Saved/MainMap_Auto1EFEC058A40330044EE4B96858F63A63F.tmp' to '../../../../../../Users/emman/Documents/Unreal Projects/UnrealEngineFirstGame/BaseProject/Saved/Autosaves/Game/FunkyShooter/BaseGame/Maps/MainMap_Auto1.umap'
+[2022.04.17-20.24.11:547][884]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FunkyShooter/BaseGame/Maps/MainMap' took 0.090
+[2022.04.17-20.24.11:547][884]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.090
+[2022.04.17-20.24.11:547][884]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FunkyShooter/Blueprints/BP_Player] ([2] browsable assets)...
+[2022.04.17-20.24.11:554][884]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FunkyShooter/Blueprints/BP_Player.BP_Player]
+[2022.04.17-20.24.11:554][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/FunkyShooter/Blueprints/BP_Player]
+[2022.04.17-20.24.11:559][884]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FunkyShooter/Blueprints/BP_Player_Auto1
+[2022.04.17-20.24.11:559][884]LogSavePackage: Moving '../../../../../../Users/emman/Documents/Unreal Projects/UnrealEngineFirstGame/BaseProject/Saved/BP_Player_Auto136DC3C804319C50454C003A7EA7F44A8.tmp' to '../../../../../../Users/emman/Documents/Unreal Projects/UnrealEngineFirstGame/BaseProject/Saved/Autosaves/Game/FunkyShooter/Blueprints/BP_Player_Auto1.uasset'
+[2022.04.17-20.24.11:560][884]LogFileHelpers: Auto-saving content packages took 0.013
+[2022.04.17-20.24.13:900][ 14]LogSavePackage: Moving output files for package: /Game/FunkyShooter/Blueprints/BP_Player
+[2022.04.17-20.24.13:901][ 14]LogSavePackage: Moving '../../../../../../Users/emman/Documents/Unreal Projects/UnrealEngineFirstGame/BaseProject/Saved/BP_Player6DF34FA7489E789A4A31C1A1C71E5CD1.tmp' to '../../../../../../Users/emman/Documents/Unreal Projects/UnrealEngineFirstGame/BaseProject/Content/FunkyShooter/Blueprints/BP_Player.uasset'
+[2022.04.17-20.24.13:919][ 14]AssetCheck: New page: Asset Save: BP_Player
+[2022.04.17-20.24.13:919][ 14]LogContentValidation: Display: Validating Blueprint /Game/FunkyShooter/Blueprints/BP_Player.BP_Player
+[2022.04.17-20.24.16:111][140]BlueprintLog: New page: Compile BP_Player
+[2022.04.17-20.24.16:163][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.04.17-20.24.24:638][639]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe -Mode=QueryTargets -Output="C:/Program Files/Epic Games/UE_5.0/Engine/Intermediate/TargetInfo.json"]
+[2022.04.17-20.24.24:800][639]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe -Mode=QueryTargets -Output="C:/Program Files/Epic Games/UE_5.0/Engine/Intermediate/TargetInfo.json"]
+[2022.04.17-20.24.24:902][639]LogDesktopPlatform: Warning: Unable to read target info for engine
+[2022.04.17-20.24.24:903][639]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-VEL2D7B
+[2022.04.17-20.24.24:903][639]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="C:/Users/emman/Documents/Unreal Projects/UnrealEngineFirstGame/BaseProject/IntroBlueprints_Base.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/emman/Documents/Unreal Projects/UnrealEngineFirstGame/BaseProject/Intermediate/TurnkeyReport_1.log" -log="C:/Users/emman/Documents/Unreal Projects/UnrealEngineFirstGame/BaseProject/Intermediate/TurnkeyLog_1.log" -project="C:/Users/emman/Documents/Unreal Projects/UnrealEngineFirstGame/BaseProject/IntroBlueprints_Base.uproject"  -Device=Win64@DESKTOP-VEL2D7B'
+[2022.04.17-20.24.24:903][639]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/emman/Documents/Unreal Projects/UnrealEngineFirstGame/BaseProject/IntroBlueprints_Base.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/emman/Documents/Unreal Projects/UnrealEngineFirstGame/BaseProject/Intermediate/TurnkeyReport_1.log" -log="C:/Users/emman/Documents/Unreal Projects/UnrealEngineFirstGame/BaseProject/Intermediate/TurnkeyLog_1.log" -project="C:/Users/emman/Documents/Unreal Projects/UnrealEngineFirstGame/BaseProject/IntroBlueprints_Base.uproject"  -Device=Win64@DESKTOP-VEL2D7B" -nocompile ]
+[2022.04.17-20.24.25:072][649]LogTurnkeySupport: Completed device detection: Code = 0
+[2022.04.17-20.24.34:399][207]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.17-20.24.34:399][207]PIE: New page: PIE session: MainMap (17 avr. 2022 à 20:24:34)
+[2022.04.17-20.24.34:402][207]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.04.17-20.24.34:402][207]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.04.17-20.24.34:402][207]LogPlayLevel: Creating play world package: /Game/FunkyShooter/BaseGame/Maps/UEDPIE_0_MainMap
+[2022.04.17-20.24.34:406][207]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003822s)
+[2022.04.17-20.24.34:406][207]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FunkyShooter/BaseGame/Maps/MainMap.MainMap to /Game/FunkyShooter/BaseGame/Maps/UEDPIE_0_MainMap.MainMap (0.003904s)
+[2022.04.17-20.24.34:406][207]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.17-20.24.34:406][207]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.17-20.24.34:407][207]LogAIModule: Creating AISystem for world MainMap
+[2022.04.17-20.24.34:407][207]LogPlayLevel: PIE: World Init took: (0.000887s)
+[2022.04.17-20.24.34:438][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.04.17-20.24.34:439][207]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.04.17-20.24.34:439][207]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.17-20.24.34:439][207]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.17-20.24.34:439][207]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.17-20.24.34:439][207]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.17-20.24.34:439][207]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.17-20.24.34:439][207]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.17-20.24.34:439][207]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.17-20.24.34:439][207]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.17-20.24.34:439][207]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.17-20.24.34:439][207]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.17-20.24.34:439][207]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.17-20.24.34:441][207]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.04.17-20.24.34:456][207]LogAudioMixer: Display: Using Audio Hardware Device Casque (AirPods Pro Stereo)
+[2022.04.17-20.24.34:457][207]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.17-20.24.34:457][207]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.17-20.24.34:458][207]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.17-20.24.34:459][207]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.04.17-20.24.34:459][207]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.04.17-20.24.34:461][207]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.04.17-20.24.34:461][207]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.04.17-20.24.34:461][207]LogInit: FAudioDevice initialized.
+[2022.04.17-20.24.34:461][207]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMap'.
+[2022.04.17-20.24.34:470][207]LogLoad: Game class is 'GameModeBase'
+[2022.04.17-20.24.34:471][207]LogWorld: Bringing World /Game/FunkyShooter/BaseGame/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2022.04.17-20.24.34
+[2022.04.17-20.24.34:591][207]LogWorld: Bringing up level for play took: 0.120854
+[2022.04.17-20.24.34:594][207]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2022.04.17-20.24.34:618][207]PIE: Server logged in
+[2022.04.17-20.24.34:619][207]PIE: Play in editor total start time 0,222 seconds.
+[2022.04.17-20.24.56:213][468]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.17-20.24.56:213][468]LogWorld: BeginTearingDown for /Game/FunkyShooter/BaseGame/Maps/UEDPIE_0_MainMap
+[2022.04.17-20.24.56:213][468]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.17-20.24.56:214][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.17-20.24.56:234][468]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.17-20.24.56:239][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.17-20.24.56:275][468]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.17-20.24.56:275][468]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.04.17-20.24.56:277][468]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.04.17-20.24.56:280][468]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.17-20.24.56:302][468]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.04.17-20.24.56:332][469]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.04.17-20.25.08:632][191]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.04.17-20.25.08:638][191]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.17-20.25.08:638][191]PIE: New page: PIE session: MainMap (17 avr. 2022 à 20:25:08)
+[2022.04.17-20.25.08:638][191]LogPlayLevel: Creating play world package: /Game/FunkyShooter/BaseGame/Maps/UEDPIE_0_MainMap
+[2022.04.17-20.25.08:642][191]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004025s)
+[2022.04.17-20.25.08:642][191]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FunkyShooter/BaseGame/Maps/MainMap.MainMap to /Game/FunkyShooter/BaseGame/Maps/UEDPIE_0_MainMap.MainMap (0.004141s)
+[2022.04.17-20.25.08:642][191]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.17-20.25.08:642][191]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.17-20.25.08:643][191]LogAIModule: Creating AISystem for world MainMap
+[2022.04.17-20.25.08:644][191]LogPlayLevel: PIE: World Init took: (0.001488s)
+[2022.04.17-20.25.08:688][191]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.04.17-20.25.08:691][191]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.04.17-20.25.08:691][191]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.17-20.25.08:691][191]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.17-20.25.08:691][191]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.17-20.25.08:691][191]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.17-20.25.08:691][191]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.17-20.25.08:691][191]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.17-20.25.08:691][191]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.17-20.25.08:691][191]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.17-20.25.08:691][191]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.17-20.25.08:691][191]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.17-20.25.08:691][191]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.17-20.25.08:694][191]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.04.17-20.25.08:708][191]LogAudioMixer: Display: Using Audio Hardware Device Casque (AirPods Pro Stereo)
+[2022.04.17-20.25.08:709][191]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.17-20.25.08:709][191]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.17-20.25.08:709][191]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.17-20.25.08:710][191]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.04.17-20.25.08:710][191]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.04.17-20.25.08:712][191]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.04.17-20.25.08:712][191]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.04.17-20.25.08:712][191]LogInit: FAudioDevice initialized.
+[2022.04.17-20.25.08:712][191]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainMap'.
+[2022.04.17-20.25.08:720][191]LogLoad: Game class is 'GameModeBase'
+[2022.04.17-20.25.08:720][191]LogWorld: Bringing World /Game/FunkyShooter/BaseGame/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2022.04.17-20.25.08
+[2022.04.17-20.25.08:849][191]LogWorld: Bringing up level for play took: 0.129605
+[2022.04.17-20.25.08:852][191]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2022.04.17-20.25.08:852][191]PIE: Server logged in
+[2022.04.17-20.25.08:853][191]PIE: Play in editor total start time 0,214 seconds.
+[2022.04.17-20.25.21:032][919]Set new viewmode: Wireframe
+[2022.04.17-20.25.22:114][984]Set new viewmode: Wireframe
+[2022.04.17-20.25.23:030][ 39]Set new viewmode: Unlit
+[2022.04.17-20.25.23:931][ 93]Set new viewmode: Unlit
+[2022.04.17-20.25.45:044][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.17-20.25.45:044][357]LogWorld: BeginTearingDown for /Game/FunkyShooter/BaseGame/Maps/UEDPIE_0_MainMap
+[2022.04.17-20.25.45:044][357]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.17-20.25.45:045][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.17-20.25.45:057][357]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.17-20.25.45:063][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.17-20.25.45:099][357]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.17-20.25.45:100][357]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.04.17-20.25.45:101][357]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.04.17-20.25.45:106][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.17-20.25.45:109][357]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.04.17-20.25.45:131][358]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.04.17-20.25.49:844][622]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2022.04.17-20.25.49:868][622]LogSavePackage: Moving output files for package: /Game/FunkyShooter/BaseGame/Maps/MainMap
+[2022.04.17-20.25.49:869][622]LogSavePackage: Moving '../../../../../../Users/emman/Documents/Unreal Projects/UnrealEngineFirstGame/BaseProject/Saved/MainMapFC39E67F4E8B74C68B23D6994AF53F19.tmp' to '../../../../../../Users/emman/Documents/Unreal Projects/UnrealEngineFirstGame/BaseProject/Content/FunkyShooter/BaseGame/Maps/MainMap.umap'
+[2022.04.17-20.25.49:900][622]AssetCheck: New page: Asset Save: MainMap
+[2022.04.17-20.25.49:900][622]LogContentValidation: Display: Validating World /Game/FunkyShooter/BaseGame/Maps/MainMap.MainMap
+[2022.04.17-20.26.32:476][159]LogSubobjectSubsystem: Warning: Cannot remove subobject 'DefaultSceneRoot' because it is the default scene root!
+[2022.04.17-20.26.37:337][432]LogSavePackage: Moving output files for package: /Game/FunkyShooter/Blueprints/BP_Player
+[2022.04.17-20.26.37:337][432]LogSavePackage: Moving '../../../../../../Users/emman/Documents/Unreal Projects/UnrealEngineFirstGame/BaseProject/Saved/BP_Player0C7E9BFD41A1511306F75E94CC887882.tmp' to '../../../../../../Users/emman/Documents/Unreal Projects/UnrealEngineFirstGame/BaseProject/Content/FunkyShooter/Blueprints/BP_Player.uasset'
+[2022.04.17-20.26.37:351][432]AssetCheck: New page: Asset Save: BP_Player
+[2022.04.17-20.26.37:351][432]LogContentValidation: Display: Validating Blueprint /Game/FunkyShooter/Blueprints/BP_Player.BP_Player
+[2022.04.17-20.27.01:359][835]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.04.17-20.27.01:366][835]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.04.17-20.27.01:366][835]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2022.04.17-20.27.01:443][835]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.04.17-20.27.01:445][835]LogPlayLevel: PlayLevel: Blueprint regeneration took 79 ms (1 blueprints)
+[2022.04.17-20.27.01:445][835]PIE: New page: PIE session: MainMap (17 avr. 2022 à 20:27:01)
+[2022.04.17-20.27.01:474][835]LogPlayLevel: Creating play world package: /Game/FunkyShooter/BaseGame/Maps/UEDPIE_0_MainMap
+[2022.04.17-20.27.01:479][835]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005600s)
+[2022.04.17-20.27.01:479][835]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FunkyShooter/BaseGame/Maps/MainMap.MainMap to /Game/FunkyShooter/BaseGame/Maps/UEDPIE_0_MainMap.MainMap (0.005731s)
+[2022.04.17-20.27.01:479][835]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.04.17-20.27.01:479][835]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.04.17-20.27.01:479][835]LogAIModule: Creating AISystem for world MainMap
+[2022.04.17-20.27.01:480][835]LogPlayLevel: PIE: World Init took: (0.000836s)
+[2022.04.17-20.27.01:516][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.04.17-20.27.01:517][835]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.04.17-20.27.01:517][835]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.17-20.27.01:517][835]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.17-20.27.01:517][835]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.17-20.27.01:517][835]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.17-20.27.01:517][835]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.17-20.27.01:517][835]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.04.17-20.27.01:517][835]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.17-20.27.01:517][835]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.17-20.27.01:517][835]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.17-20.27.01:517][835]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.17-20.27.01:517][835]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.17-20.27.01:519][835]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.04.17-20.27.01:534][835]LogAudioMixer: Display: Using Audio Hardware Device Casque (AirPods Pro Stereo)
+[2022.04.17-20.27.01:534][835]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.17-20.27.01:534][835]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.17-20.27.01:534][835]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.17-20.27.01:536][835]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.04.17-20.27.01:536][835]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.04.17-20.27.01:538][835]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.04.17-20.27.01:538][835]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.04.17-20.27.01:538][835]LogInit: FAudioDevice initialized.
+[2022.04.17-20.27.01:538][835]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainMap'.
+[2022.04.17-20.27.01:551][835]LogLoad: Game class is 'GameModeBase'
+[2022.04.17-20.27.01:552][835]LogWorld: Bringing World /Game/FunkyShooter/BaseGame/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2022.04.17-20.27.01
+[2022.04.17-20.27.01:655][835]LogWorld: Bringing up level for play took: 0.104540
+[2022.04.17-20.27.01:656][835]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2022.04.17-20.27.01:657][835]PIE: Server logged in
+[2022.04.17-20.27.01:658][835]PIE: Play in editor total start time 0,292 seconds.
+[2022.04.17-20.27.15:964][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.17-20.27.15:964][687]LogWorld: BeginTearingDown for /Game/FunkyShooter/BaseGame/Maps/UEDPIE_0_MainMap
+[2022.04.17-20.27.15:964][687]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.17-20.27.15:965][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.17-20.27.15:980][687]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.17-20.27.15:986][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.17-20.27.16:020][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.17-20.27.16:020][687]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.04.17-20.27.16:022][687]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.04.17-20.27.16:040][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.04.17-20.27.16:076][688]LogPlayLevel: Display: Destroying online subsystem :Context_5
