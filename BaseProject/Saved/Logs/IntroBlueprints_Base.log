@@ -1053,3 +1053,42 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.04.17-16.08.14:658][290]LogSavePackage: Moving '../../../../../../Users/emman/Documents/Unreal Projects/UnrealEngineFirstGame/BaseProject/Saved/BP_PlayerEDB3D1FB4A4DC640CDF8B391961F9681.tmp' to '../../../../../../Users/emman/Documents/Unreal Projects/UnrealEngineFirstGame/BaseProject/Content/FunkyShooter/Blueprints/BP_Player.uasset'
 [2022.04.17-16.08.14:682][290]AssetCheck: New page: Asset Save: BP_Player
 [2022.04.17-16.08.14:682][290]LogContentValidation: Display: Validating Blueprint /Game/FunkyShooter/Blueprints/BP_Player.BP_Player
+[2022.04.17-16.10.50:547][138]LogEditorViewport: Clicking Background
+[2022.04.17-16.11.46:674][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.04.17-16.11.46:703][330]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FunkyShooter/BaseGame/Maps/MainMap_Auto4
+[2022.04.17-16.11.46:703][330]LogSavePackage: Moving '../../../../../../Users/emman/Documents/Unreal Projects/UnrealEngineFirstGame/BaseProject/Saved/MainMap_Auto4A86E73CB4A050CB53C2F8A89CB4B32FB.tmp' to '../../../../../../Users/emman/Documents/Unreal Projects/UnrealEngineFirstGame/BaseProject/Saved/Autosaves/Game/FunkyShooter/BaseGame/Maps/MainMap_Auto4.umap'
+[2022.04.17-16.11.46:712][330]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FunkyShooter/BaseGame/Maps/MainMap' took 0.086
+[2022.04.17-16.11.46:712][330]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.086
+[2022.04.17-16.12.14:790][897]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.04.17-16.12.45:194][478]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.04.17-16.19.24:513][768]LogSlate: Window 'Project Settings' being destroyed
+[2022.04.17-16.19.55:655][493]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.04.17-16.19.55:655][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.17-16.20.04:128][177]LogEditorViewport: Clicking Background
+[2022.04.17-16.20.24:104][858]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.04.17-16.20.24:124][858]LogSavePackage: Moving output files for package: /Game/FunkyShooter/BaseGame/Maps/MainMap
+[2022.04.17-16.20.24:126][858]LogSavePackage: Moving '../../../../../../Users/emman/Documents/Unreal Projects/UnrealEngineFirstGame/BaseProject/Saved/MainMap053037CF4D5A0F047E4E07A2B9FBB380.tmp' to '../../../../../../Users/emman/Documents/Unreal Projects/UnrealEngineFirstGame/BaseProject/Content/FunkyShooter/BaseGame/Maps/MainMap.umap'
+[2022.04.17-16.20.24:157][858]AssetCheck: New page: Asset Save: MainMap
+[2022.04.17-16.20.24:157][858]LogContentValidation: Display: Validating World /Game/FunkyShooter/BaseGame/Maps/MainMap.MainMap
+[2022.04.17-16.20.26:663][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.04.17-16.20.26:687][ 52]LogSavePackage: Moving output files for package: /Game/FunkyShooter/BaseGame/Maps/MainMap
+[2022.04.17-16.20.26:688][ 52]LogSavePackage: Moving '../../../../../../Users/emman/Documents/Unreal Projects/UnrealEngineFirstGame/BaseProject/Saved/MainMapAB069A0A47BEC47BBBB13ABB5C563696.tmp' to '../../../../../../Users/emman/Documents/Unreal Projects/UnrealEngineFirstGame/BaseProject/Content/FunkyShooter/BaseGame/Maps/MainMap.umap'
+[2022.04.17-16.20.26:718][ 52]AssetCheck: New page: Asset Save: MainMap
+[2022.04.17-16.20.26:718][ 52]LogContentValidation: Display: Validating World /Game/FunkyShooter/BaseGame/Maps/MainMap.MainMap
+[2022.04.17-16.20.27:453][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.04.17-16.20.27:476][111]LogSavePackage: Moving output files for package: /Game/FunkyShooter/BaseGame/Maps/MainMap
+[2022.04.17-16.20.27:477][111]LogSavePackage: Moving '../../../../../../Users/emman/Documents/Unreal Projects/UnrealEngineFirstGame/BaseProject/Saved/MainMap3E8C17064BFDB9E092338DB32829D2F6.tmp' to '../../../../../../Users/emman/Documents/Unreal Projects/UnrealEngineFirstGame/BaseProject/Content/FunkyShooter/BaseGame/Maps/MainMap.umap'
+[2022.04.17-16.20.27:504][111]AssetCheck: New page: Asset Save: MainMap
+[2022.04.17-16.20.27:504][111]LogContentValidation: Display: Validating World /Game/FunkyShooter/BaseGame/Maps/MainMap.MainMap
+[2022.04.17-16.20.30:116][322]LogEditorViewport: Clicking Background
+[2022.04.17-16.20.30:966][396]LogEditorViewport: Clicking Background
+[2022.04.17-16.20.43:581][538]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.04.17-16.21.21:440][ 81]LogDerivedDataCache: C:/Users/emman/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.059 and deleted 0 file(s) with total size 0 MiB.
+[2022.04.17-16.21.47:334][484]LogSourceControl: Plastic SCM plugin '1.4.6'
+[2022.04.17-16.21.47:335][484]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2022.04.17-16.21.47:335][484]LogWindows: Warning: URL: cm shell
+[2022.04.17-16.21.47:335][484]LogSourceControl: Warning: Failed to launch 'cm shell'
+[2022.04.17-16.22.34:351][975]LogSourceControl: IssueAsynchronousCommand: Connect
+[2022.04.17-16.22.34:352][975]SourceControl: Error: Connection Error: Failed to launch Plastic SCM command line tool. You need to install it or set the correct path to it first.
+[2022.04.17-16.22.52:138][579]LogSourceControl: IssueAsynchronousCommand: Connect
+[2022.04.17-16.22.52:139][579]SourceControl: Error: Connection Error: Failed to launch Plastic SCM command line tool. You need to install it or set the correct path to it first.
