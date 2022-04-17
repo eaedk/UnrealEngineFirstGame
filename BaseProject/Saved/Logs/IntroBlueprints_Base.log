@@ -1092,3 +1092,4 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.04.17-16.22.34:352][975]SourceControl: Error: Connection Error: Failed to launch Plastic SCM command line tool. You need to install it or set the correct path to it first.
 [2022.04.17-16.22.52:138][579]LogSourceControl: IssueAsynchronousCommand: Connect
 [2022.04.17-16.22.52:139][579]SourceControl: Error: Connection Error: Failed to launch Plastic SCM command line tool. You need to install it or set the correct path to it first.
+[2022.04.17-16.33.11:292][948]LogSlate: Window 'Source Control Login' being destroyed
