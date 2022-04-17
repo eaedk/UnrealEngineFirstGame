@@ -1257,3 +1257,18 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.04.17-16.53.55:763][376]LogSavePackage: Moving '../../../../../../Users/emman/Documents/Unreal Projects/UnrealEngineFirstGame/BaseProject/Saved/MainMapC6C1903C4FB9BF8250586DBD57BE7232.tmp' to '../../../../../../Users/emman/Documents/Unreal Projects/UnrealEngineFirstGame/BaseProject/Content/FunkyShooter/BaseGame/Maps/MainMap.umap'
 [2022.04.17-16.53.55:794][376]AssetCheck: New page: Asset Save: MainMap
 [2022.04.17-16.53.55:794][376]LogContentValidation: Display: Validating World /Game/FunkyShooter/BaseGame/Maps/MainMap.MainMap
+[2022.04.17-16.58.50:055][552]LogSavePackage: Moving output files for package: /Game/FunkyShooter/Blueprints/BP_Player
+[2022.04.17-16.58.50:056][552]LogSavePackage: Moving '../../../../../../Users/emman/Documents/Unreal Projects/UnrealEngineFirstGame/BaseProject/Saved/BP_PlayerEDE9334D48C3C1B7B3EFCE8E40A8B008.tmp' to '../../../../../../Users/emman/Documents/Unreal Projects/UnrealEngineFirstGame/BaseProject/Content/FunkyShooter/Blueprints/BP_Player.uasset'
+[2022.04.17-16.58.50:073][552]AssetCheck: New page: Asset Save: BP_Player
+[2022.04.17-16.58.50:073][552]LogContentValidation: Display: Validating Blueprint /Game/FunkyShooter/Blueprints/BP_Player.BP_Player
+[2022.04.17-16.58.59:374][ 96]BlueprintLog: New page: Compile BP_Player
+[2022.04.17-16.58.59:435][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.04.17-16.59.00:774][161]LogSavePackage: Moving output files for package: /Game/FunkyShooter/Blueprints/BP_Player
+[2022.04.17-16.59.00:775][161]LogSavePackage: Moving '../../../../../../Users/emman/Documents/Unreal Projects/UnrealEngineFirstGame/BaseProject/Saved/BP_Player939C86F24B098F6CD5034CB08086491F.tmp' to '../../../../../../Users/emman/Documents/Unreal Projects/UnrealEngineFirstGame/BaseProject/Content/FunkyShooter/Blueprints/BP_Player.uasset'
+[2022.04.17-16.59.00:790][161]AssetCheck: New page: Asset Save: BP_Player
+[2022.04.17-16.59.00:790][161]LogContentValidation: Display: Validating Blueprint /Game/FunkyShooter/Blueprints/BP_Player.BP_Player
+[2022.04.17-16.59.06:455][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.04.17-16.59.06:470][481]LogSavePackage: Moving output files for package: /Game/FunkyShooter/BaseGame/Maps/MainMap
+[2022.04.17-16.59.06:471][481]LogSavePackage: Moving '../../../../../../Users/emman/Documents/Unreal Projects/UnrealEngineFirstGame/BaseProject/Saved/MainMapD929545F44DBA8C69BA300A179122006.tmp' to '../../../../../../Users/emman/Documents/Unreal Projects/UnrealEngineFirstGame/BaseProject/Content/FunkyShooter/BaseGame/Maps/MainMap.umap'
+[2022.04.17-16.59.06:505][481]AssetCheck: New page: Asset Save: MainMap
+[2022.04.17-16.59.06:505][481]LogContentValidation: Display: Validating World /Game/FunkyShooter/BaseGame/Maps/MainMap.MainMap
