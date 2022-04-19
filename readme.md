@@ -5,5 +5,5 @@ I like games a lot and for a long time I have been thinking of getting into this
 # About this Game
 ` DESCRIPTION TO ADD `
 
-# Source Controle
+# Source Control
 The history of this game is currently tracked using Source Control Manager on VsCode
